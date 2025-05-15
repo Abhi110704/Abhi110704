@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advanced concepts in Machine Learning, Deep Learning, and Data Analytics, while enhancing my skills in Python, SQL, and AI project development.**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Internship)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Abhi110704/Internship)
 
 - 💬 Ask me about **AI/ML • Deep Learning • Python • Data Analysis • Computer Vision • NLP • TensorFlow • OpenCV • Scikit-learn • Internships • Tech Communities • Learning Resources • Movie Recommendation System • Face Recognition Attendance System • Stock Market Prediction**
 
