@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhiyanshu1107@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhiyanshu-anand-617963281](https://www.linkedin.com/in/abhiyanshu-anand-617963281)
+- 📄 Know about my experiences [Portfolio](https://abhi110704.github.io/)
 
 - ⚡ Fun fact **I enjoy simplifying complex tech into bite-sized, understandable chunks.**
 
