@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhiyanshu Anand</h1>
 <h3 align="center">I am an enthusiastic and highly motivated individual passionate about Artificial Intelligence (AI) and Machine Learning (ML).</h3>
 
-- 🔭 I’m currently working on [IntelliTraffic Model](https://github.com/Abhi110704/IntelliTraffic)
-
 - 🌱 I’m currently learning **advanced concepts in Machine Learning, Deep Learning, and Data Analytics, while enhancing my skills in Python, SQL, and AI project development.**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Abhi110704/Internship)
